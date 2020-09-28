@@ -31,10 +31,15 @@ caption{
 }
 
 p{
+  padding-top: 15px;
 
 }
 
 a{
+  color: #C12258 /*#B21F50, or #B92751*/;
+  font-size: 16px;
+  text-decoration-style: wavy;
+
 
 }
 
@@ -52,7 +57,7 @@ table{
 }
 
 td{
-  
+
 }
 
 tr{
@@ -71,4 +76,3 @@ footer{
   text-align:center;
   color: #FFFFFF;
 }
-
